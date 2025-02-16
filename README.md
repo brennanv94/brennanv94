@@ -15,7 +15,7 @@ When I'm not analyzing logs or configuring defenses, I actively engage with the 
 
   
 ## 🚨 Threat Hunting and Security Operations
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/brennanv94/AzureSoc))
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/brennanv94/AzureSoc)
 
 
 
